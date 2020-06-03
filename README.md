@@ -1,7 +1,7 @@
 # conditional_speech_exercises
 Generate different grammar conditional speech exercises from a given word (.docx) file as input. 
 
-# how to use it
+# How to use it
 step 1: if you do not have python installed, install it. We reccomend the installation of Anaconda python.
 
 step 2: install the needed addictional python libraries: docx2txt, docx and tkinter (pip install needed_library, es. pip install tkinter)
@@ -36,8 +36,8 @@ step 7: the exercise requested has been created with his suffix in the same work
 The word file uploaded should be in .DOCX format and preferibily without special formatting. If the text is copied from other files and/or websites it is better to use the option PASTE TEXT ONLY and do not keep the source formatting, since some formatting may cause problems in the document parsing.
 
 
-# regarding verbs declination excel files
+# Regarding verbs declination excel files
 This file have been generated from dictionaries automatically and, even though it has been tested on numerous texts of different type for errers detection and correction, it is still possible to meet some rare spelling errors and/or some missing verbs. If you find an error, please let us know so we can remove it ASAP. Also in the file there are some non-existing verbs forms, since they were generated in automatic, but since they do not exist in Russian, they do not create any problem. Teacher/professor that want to help perfectioning the program may delete these forms from the excel file and send it back.
 
-# regarding verbs pairs NSV/SV excel files
+# Regarding verbs pairs NSV/SV excel files
 This file have been generated from dictionaries automatically and, even though it has been tested on numerous texts of different type for errers detection and correction, it is still possible to meet some rare spelling errors and/or some missing verbs pairs (NSV/SV). If you find an error or a missing pair, please let us know so we can remove/correct it ASAP. Pairs can be added to the ecxel file VERB_PAIRS.xlsx 
