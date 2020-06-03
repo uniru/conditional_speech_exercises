@@ -33,7 +33,7 @@ step 7: the exercise requested has been created with his suffix in the same work
 
 
 # regarding verbs declination excel files
-This file have been generated from dictionaries automatically and, even though it has been tested on numerous texts of different type for errers detection and correction, it is still possible to meet some rare spelling errors and/or some missing verbs. If you find an error, please let us know so we can remove it ASAP.
+This file have been generated from dictionaries automatically and, even though it has been tested on numerous texts of different type for errers detection and correction, it is still possible to meet some rare spelling errors and/or some missing verbs. If you find an error, please let us know so we can remove it ASAP. Also in the file there are some non-existing verbs forms, since they were generated in automatic, but since they do not exist in Russian, they do not create any problem. Teacher/professor that want to help perfectioning the program may delete these forms from the excel file and send it back.
 
 # regarding verbs pairs NSV/SV excel files
 This file have been generated from dictionaries automatically and, even though it has been tested on numerous texts of different type for errers detection and correction, it is still possible to meet some rare spelling errors and/or some missing verbs pairs (NSV/SV). If you find an error or a missing pair, please let us know so we can remove/correct it ASAP.
