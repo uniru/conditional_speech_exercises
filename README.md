@@ -19,7 +19,7 @@ step 7: the exercise requested has been created with his suffix in the same work
 
 # Types of exercises availables
 
-1. Preposition substitution: will substitute all preposition of this list ("на", "в", "от", "с", "к", "со", "про", "до")
+1. Preposition substitution: will substitute all preposition of this list ("на", "в", "от", "с", "к", "со", "ко", "про", "до")
 
 2. words substitution: will ask to submit a sample file with the words you want to substitute and erase them. File example attached.
 
