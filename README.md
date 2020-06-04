@@ -6,7 +6,7 @@ step 1: if you do not have python installed, install it. We reccomend the instal
 
 step 2: install the needed addictional python libraries: docx2txt, docx and tkinter (pip install needed_library, es. pip install tkinter)
 
-step 3: open an Anaconda prompt or a terminal and type: python conditional_speech_exercises.py
+step 3: open an Anaconda prompt or a terminal, navigate to the location of the python file and type: python conditional_speech_exercises.py
 
 step 4: a window will be opened asking to choose the word file you want to use for the exercise
 
@@ -40,4 +40,4 @@ The word file uploaded should be in .DOCX format and preferibily without special
 This file have been generated from dictionaries automatically and, even though it has been tested on numerous texts of different type for errers detection and correction, it is still possible to meet some rare spelling errors and/or some missing verbs. If you find an error, please let us know so we can remove it ASAP. Also in the file there are some non-existing verbs forms, since they were generated in automatic, but since they do not exist in Russian, they do not create any problem. Teacher/professor that want to help perfectioning the program may delete these forms from the excel file and send it back.
 
 # Regarding verbs pairs NSV/SV excel files
-This file have been generated from dictionaries automatically and, even though it has been tested on numerous texts of different type for errers detection and correction, it is still possible to meet some rare spelling errors and/or some missing verbs pairs (NSV/SV). If you find an error or a missing pair, please let us know so we can remove/correct it ASAP. Pairs can be added to the ecxel file VERB_PAIRS.xlsx 
+This file have been generated from dictionaries automatically and, even though it has been tested on numerous texts of different type for errers detection and correction, it is still possible to meet some rare spelling errors. Some verbs pairs (NSV/SV) are probably missing, with time the file VERB_PAIRS.xlsx will be updated including more and more pairs. If you find an error or a missing pair, please let us know so we can remove/correct it ASAP. Pairs can be added to the ecxel file VERB_PAIRS.xlsx 
